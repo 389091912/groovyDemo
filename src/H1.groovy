@@ -22,15 +22,6 @@ class H1 {
                 '}';
     }
 
-    static void main(String[] args) {
-        println("123")
-        def sum = 0;
-        for (i in 1..10) {
-            sum += i
-        }
-        println("1.。10结果为：" + sum)
 
-
-    }
 
 }
