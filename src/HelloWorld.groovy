@@ -10,7 +10,7 @@ import javafx.print.Printer
 println("Hello world")
 
 for (int i in 1..2) {
-    println("黄晓宇是菜鸡    "+i )
+    println("0.0    "+i )
 }
 
 
